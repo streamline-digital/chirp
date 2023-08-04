@@ -1,4 +1,4 @@
-# Checkmate: Markdown Todo List Generator
+# Checkmate
 
 Checkmate is a simple Python script that helps you generate todo lists in a file system hierarchy using Markdown files. It provides a convenient way to create and manage your daily todo lists in a structured format.
 
