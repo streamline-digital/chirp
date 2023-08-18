@@ -17,7 +17,7 @@ Checkmate is a simple Python script that helps you generate todo lists in a file
 4. Run the following command to generate todo files for a specified number of days:
 
 ```
-python todo_generator.py <number_of_days>
+python checkmate.py <number_of_days>
 ```
 
 Replace `<number_of_days>` with the desired number of days.
@@ -25,14 +25,10 @@ Replace `<number_of_days>` with the desired number of days.
 5. (Optional) To display unfinished tasks across the specified timespan, use the `--show-unfinished` flag:
 
 ```
-python todo_generator.py <number_of_days> --show-unfinished
+python checkmate.py <number_of_days> --show-unfinished
 ```
 
 This will show a list of dates and corresponding unfinished tasks.
-
-## Requirements
-
-- Python 3.x
 
 ## License
 
