@@ -12,7 +12,7 @@ Within the Markdown for each day there are directives that can indicate the time
 
 The command line interface is used to configure Chirp. 
 
-With no optional parameters Vhirp will run as an ephemeral process, iterating once over all days to return a summary.
+With no optional parameters Chirp will run as an ephemeral process, iterating once over all days to return a summary.
 
 ```
 
